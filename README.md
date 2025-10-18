@@ -38,5 +38,5 @@ Navigation bar and footer components
 
 👨‍💻 Author
 
-Created by [Your Name] — ALX Front-End Software Engineering Program
+Created by Ayman bouzidi — ALX Front-End Software Engineering Program
 #ALX_FE #ALX_SE #AirbnbClone #FrontendDevelopment
