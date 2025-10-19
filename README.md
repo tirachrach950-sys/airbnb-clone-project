@@ -64,3 +64,14 @@ Created by Ayman bouzidi — ALX Front-End Software Engineering Program
 
 ### Importance of User-Friendly Design
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design help users feel comfortable and confident while making bookings.
+## Project Roles and Responsibilities
+| Role               | Responsibilities |
+|-------------------|-----------------|
+| Project Manager    | Oversees timeline, coordinates team, manages deliverables |
+| Frontend Developer | Implements UI components, ensures responsive design |
+| Backend Developer  | Builds APIs, manages database, implements business logic |
+| Designer           | Creates mockups, maintains design system, ensures UX quality |
+| QA/Tester          | Writes test cases, performs testing, reports bugs |
+| DevOps Engineer    | Manages deployment, CI/CD pipeline, server infrastructure |
+| Product Owner      | Defines requirements, prioritizes features, represents stakeholders |
+| Scrum Master       | Facilitates agile processes, removes blockers, organizes meetings |
