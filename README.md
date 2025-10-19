@@ -69,6 +69,27 @@ A well-designed booking system reduces friction in the user journey, increases c
 |-------------------|-----------------|
 | Project Manager    | Oversees timeline, coordinates team, manages deliverables |
 | Frontend Developer | Implements UI components, ensures responsive design |
+## UI Component Patterns
+### Planned Components
+
+#### Navbar
+- Logo
+- Search bar
+- User navigation
+- Responsive menu
+
+#### Property Card
+- Property image
+- Basic details (price, location, rating)
+- Favorite button
+- Responsive layout
+
+#### Footer
+- Site links
+- Company information
+- Social media links
+- Copyright information
+
 | Backend Developer  | Builds APIs, manages database, implements business logic |
 | Designer           | Creates mockups, maintains design system, ensures UX quality |
 | QA/Tester          | Writes test cases, performs testing, reports bugs |
